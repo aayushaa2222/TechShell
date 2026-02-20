@@ -17,10 +17,14 @@ The shell:
 - Implements the built-in cd command
 - Prints proper error messages using errno
 
-## compiling
+## How to clone
+git clone https://github.com/aayushaa2222/TechShell.git
+cd TechShell
+
+## how to compile
 gcc techshell.c -o techshell
 
-## to run use
+## how to run 
 ./techshell
 
 ## working features
