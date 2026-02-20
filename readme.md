@@ -3,6 +3,19 @@
 ## Name
 Aayusha Khadka
 
+## Responsibilities
+
+This project was completed individually by me, Aayusha Khadka.
+
+Responsibilities:
+- Designed and implemented the shell program
+- Implemented command parsing
+- Implemented fork() and execvp() execution
+- Implemented input and output redirection
+- Implemented built-in cd command
+- Tested functionality and handled error cases
+- Wrote documents, "readme.md"
+
 ## Description
 This project is a simple shell written in C called "techshell".
 It works similar to a basic Linux terminal. The shell keeps running until
